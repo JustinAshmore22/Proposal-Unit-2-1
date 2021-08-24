@@ -1,0 +1,48 @@
+{
+  "files": {
+    "Roster/LAClippers.txt": [
+      {
+        "id": "bd9ad9ed-653b-4e22-9a8b-3e361363f316",
+        "line": 1,
+        "version": 10,
+        "index": 0
+      }
+    ],
+    "main.py": [
+      {
+        "id": "07a94738-d249-4e8d-bc94-dce7ca90df67",
+        "line": 69,
+        "version": 12876,
+        "index": 1635
+      },
+      {
+        "id": "d3f1be58-6688-4b87-9e84-727b002c1f74",
+        "line": 346,
+        "version": 12876,
+        "index": 11379
+      },
+      {
+        "id": "8308a2e5-5518-492e-b4e6-ad130bae2a4c",
+        "line": 397,
+        "version": 12876,
+        "index": 13718
+      }
+    ],
+    "my.py": [
+      {
+        "id": "0d0d471b-1c49-4704-bab5-e148b09aa66e",
+        "line": 3,
+        "version": 535,
+        "index": 32
+      }
+    ],
+    "test.py": [
+      {
+        "id": "5907c48e-d27d-4739-a1e9-9dff906d2e91",
+        "line": 20,
+        "version": 328,
+        "index": 367
+      }
+    ]
+  }
+}
